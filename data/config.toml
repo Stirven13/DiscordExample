@@ -1,0 +1,5 @@
+# Bot token
+# You can create bot there https://discord.com/developers/applications
+token = ""
+
+prefix = "!"
